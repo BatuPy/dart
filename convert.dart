@@ -1,6 +1,7 @@
 void main() {
   // Int -> String
   int a = 12;
+  int b=10;
   String b = a.toString();
   print(b);
   print(b.runtimeType);
